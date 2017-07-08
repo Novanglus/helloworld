@@ -1,2 +1,3 @@
 # helloworld
-First Repository
+Hello Humans!
+First attempt at git and github. 
